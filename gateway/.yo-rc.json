@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.slon.develop"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.slon.develop",
+    "packageFolder": "com/slon/develop",
+    "serverPort": "8088",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGRlMTAyMTI1NTVhNjBhYmI1NTkxMDI1YmE3Y2Y3MjkzNzg2NWUwYzEyYWFiMzA4ZTFjYjIxZWJhMDk5NGY4N2MyNDBiMDU1NDg4ZTViZGRjYzM3OTQ0NjZmMTUxY2NkOWQ4NDA1YjI2YWU4ZDg4OGVkMTY4MGEzZWJiY2VhYzQ=",
+    "clientFramework": "react",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}

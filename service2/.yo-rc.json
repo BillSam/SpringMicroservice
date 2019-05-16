@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.slon.develop"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "microservice",
+    "baseName": "cool2",
+    "packageName": "com.slon.develop",
+    "packageFolder": "com/slon/develop",
+    "serverPort": "8082",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTU3ODc5MjU4Zjc5Y2VhM2RjY2M5OGQwZmFmNTAyYzJlMDI3NmZiZDcyM2U1OGVkNjNlMmIwMmQ5YTRlNDlmYzAwYTBiMDQ3ZGY1MTc1Mzg4ZmVjYTNmN2I1YjM2MzQ0ODhmOGQ1NWY5ZTNmMzQ2MTNkYTI0MmJjOTc0ODhkZTQ=",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
